@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdminsBank", "AnstalldaBank\AdminsBank.csproj", "{527D8670-BFAB-4ADA-87B5-0766F5CE2E49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonsLibrary", "PersonsLibrary\PersonsLibrary.csproj", "{06964382-D27E-40AB-B028-03C198D18128}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnstalldasBank", "AnstalldasBank\AnstalldasBank.csproj", "{8E3CB5EB-9B07-4EA1-8973-3143C7459DAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{527D8670-BFAB-4ADA-87B5-0766F5CE2E49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{527D8670-BFAB-4ADA-87B5-0766F5CE2E49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{527D8670-BFAB-4ADA-87B5-0766F5CE2E49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{527D8670-BFAB-4ADA-87B5-0766F5CE2E49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06964382-D27E-40AB-B028-03C198D18128}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06964382-D27E-40AB-B028-03C198D18128}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06964382-D27E-40AB-B028-03C198D18128}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06964382-D27E-40AB-B028-03C198D18128}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E3CB5EB-9B07-4EA1-8973-3143C7459DAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E3CB5EB-9B07-4EA1-8973-3143C7459DAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E3CB5EB-9B07-4EA1-8973-3143C7459DAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E3CB5EB-9B07-4EA1-8973-3143C7459DAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
